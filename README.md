@@ -3,52 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Logic</title>
+    <title>SEO project</title>
 </head>
 
 <body>
-
     <header>
         <div>Logic</div>
-
-        <nav>
-            <a href="#home">Home</a>
-            <a href="#product">Product</a>
-            <a href="#contact">Contact</a>
-        </nav>
+        <div>
+            <a href="/Home" target="_main">Home</a>
+            <a href="/Product" target="_main">Product</a>
+            <a href="/Contact" target="_main">Contact</a>
+        </div>
     </header>
 
     <main>
-
-        <section id="home">
-            <h1>Welcome to Logic</h1>
-            <p>
-                Welcome to my website, Logic! Let's have fun coding together.
-            </p>
-        </section>
-
-        <section id="product">
-            <h2>Products</h2>
-            <p>
-                This section contains information about our products.
-            </p>
-        </section>
-
-        <section id="contact">
-            <h2>Contact Us</h2>
-            <p>
-                Email: logic@example.com
-            </p>
-            <p>
-                Phone: +91 9876543210
-            </p>
-        </section>
-
+        <h4>Hi !</h4>
     </main>
 
     <footer>
-        <p>&copy; 2026 Logic. All Rights Reserved.</p>
+        Welcome all of you to my website, Logic!
+        Hey! Let's fun together with coding!
     </footer>
-
 </body>
 </html>
